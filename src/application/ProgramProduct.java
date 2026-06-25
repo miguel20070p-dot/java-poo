@@ -1,11 +1,8 @@
 package application;
 
 import entities.Product;
-
-import java.sql.SQLOutput;
 import java.util.Locale;
 import java.util.Scanner;
-
 
 public class ProgramProduct {
    public static void main(String[] args) {
